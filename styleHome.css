@@ -1,0 +1,27 @@
+[class*="col"] {
+    padding: 1rem;
+    
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+h1 {
+    color: rg + --b(13, 64, 204);
+    font-size: 55px;
+    font-family: Luminari, fantasy;
+    text-align: center;
+}
+
+#HeaderImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+
